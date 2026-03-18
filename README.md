@@ -1,4 +1,3 @@
-# test
+# 大杂烩
 
-这是一个用于测试github的仓库，用于熟悉github用法
-\alpha
+这是一个与AI相关的大杂烩
